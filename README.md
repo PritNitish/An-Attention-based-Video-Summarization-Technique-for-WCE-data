@@ -1,0 +1,1 @@
+# An-Attention-based-Video-Summarization-Technique-for-Wireless-Capsule-Endoscopy-Data
